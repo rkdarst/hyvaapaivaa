@@ -23,8 +23,9 @@ make you appreciate and enjoy learning Finnish, which despite what
 people may believe is very possible.
 
 This course is written by someone who is learning Finnish, but by no
-means knows it.  Do not trust anything in here, but learn it and
-remember once you start you own courses.
+means knows it.  This isn't designed to be technically correct, but
+easy and fun to understand.  Do not trust anything in here, but learn
+it and remember once you start you own courses.
 
 
 Contents:
@@ -33,6 +34,7 @@ Contents:
    :maxdepth: 2
 
    aboutfinnish
+   vocabulary_words
 
 ..
   Indices and tables
