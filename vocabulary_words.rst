@@ -1,8 +1,8 @@
 Vocabulary and word structure
 =============================
 
-Alphabet
---------
+Vocabulary
+----------
 
 The Finnish vocabulary is very unique (unless you know Estonian or a
 few other languages).  It is also in the same family as Hungarian,
@@ -10,11 +10,11 @@ though a Hungarian once told me "English and Russian are about as
 close as Hungarian and Finnish".  So, you should be able to see the
 magnitude of the problem here.
 
-However, there are some patterns when assimilating foreign words.
-The following can help you to match some of these up.  Modern
-loanwords are usually constructed with an "i" on the end.  One example
-is "pankki" = "bank".  "b" converted to "p", the k doubled and an "i"
-was added.
+However, there are some patterns when assimilating foreign words.  The
+following can help you to match some of these up.  Modern loanwords
+are usually constructed with an ``i`` on the end.  One example is
+``pankki`` = "bank".  ``b`` converted to ``p``, the k doubled and an
+``i`` was added.
 
 .. csv-table::
    :header-rows: 1
@@ -33,10 +33,10 @@ As you can see, there are a lot of sounds from the English alphabet
 that don't exist in Finnish.  This takes out a lot of the richness of
 pronunciation, and means that you have to train your ear to pay
 attention to other things.  On the other hand, you get the new letters
-"ä" and "ö" (å is Sweedish only and has no native Finnish words), but
-these are **different** from ``a`` and ``o`` so you must train your
-ear and mind to think of them as a distinct entity.  If you can not,
-you can't understand or be understood.
+``ä`` and ``ö`` (å is Swedish only and has no native Finnish words),
+but these are **different** from ``a`` and ``o`` so you must train
+your ear and mind to think of them as a distinct entity.  If you can
+not, you can't understand or be understood.
 
 Coming from English, where letters can have many different sounds,
 this has taken a little bit of time to get used to.  Just always keep
@@ -49,12 +49,10 @@ processing and remembering all of the double letters!
 Pronunciation
 -------------
 
-In Finnish, one letter has one sound.  The exception is "ng" produces
-a new sound (and I'm sure a few more that I don't know about, but
-that's very rare).  Pronunciation is reported to be somewhat as in
+In Finnish, one letter has one sound.  The exception is ``ng``
+produces a new sound (and I'm sure a few more that I don't know about,
+but that's very rare).  Pronunciation is reported to be somewhat as in
 Spanish, but you will quickly learn it.
-
-- ... but not always spoken as written!
 
 However, we must note that not all pronunciation is as is written in
 standard Finnish!  Since dialects are used in all parts of Finland,
@@ -62,7 +60,6 @@ what is said in practice does not match what is written.  However,
 these dialects always(?) follow the language standards, and there is
 some way that they can be written that could match how it is
 pronounced.
-
 
 Now, let's discuss more about specific letters.  The next chapter will
 discuss syllables, for now we will just discuss consonants and vowels.
