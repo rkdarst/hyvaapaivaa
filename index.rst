@@ -37,6 +37,13 @@ Contents:
    vocabulary_words
    wordstructure
 
+* Noun cases
+* Word changes
+* Plural
+* Common suffixes/forms
+* Spoken Finnish/dialects
+
+
 ..
   Indices and tables
   ==================
