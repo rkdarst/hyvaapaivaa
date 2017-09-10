@@ -35,6 +35,7 @@ Contents:
 
    aboutfinnish
    vocabulary_words
+   wordstructure
 
 ..
   Indices and tables
