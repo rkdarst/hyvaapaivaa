@@ -69,3 +69,26 @@ Instead, you get more richness in the usage of fewer letters when they
 are turned into syllables.  For example, "tuli" is "fire", and "tuuli"
 is "wind".  In English, letters don't necessarily mean anything about
 the pronunciation, but in Finnish pronunciation is essential.
+
+Finally, I believe that in many cases Finnish is hard to learn because
+of the way it is taught.  In many cases, it is thought as a "total
+immersion" method.  This works in many languages, where there is
+enough similarity that you can pick up *something*, and then work your
+way to the rest.  But Finnish is so different there is not really
+anything to pick up on unless you start as if you are a child learning
+your first language.  Even living in this country for a few years
+doesn't necessarily let you see the patterns without some help.  Why
+is this?  Every language is built on some basic components, and you
+recognize these components and work up to a larger understanding.  In
+Finnish, the components are so different that it takes a lot of time
+to build up to them.  Even in modern "machine learning" techniques,
+some sort of basic features are programmed in and used to infer the
+rest: you don't learn patterns with absolutely no context.
+Unfortunately Finnish is so different that there's hardly any context
+to start with, and most people with jobs which don't require Finnish
+don't get the type of immersion they need.
+
+The very purpose of this course is to solve this problem: to teach you
+the basic components of Finnish, so that you can understand what you
+are seeing.  This will make learning Finnish much more enjoyable, and
+also give you a greater chance of picking up some over time.

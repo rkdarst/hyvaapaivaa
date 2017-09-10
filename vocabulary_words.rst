@@ -164,3 +164,16 @@ letter in the future.
 
 The diphthongs aren't that hard: the most common ones are clear, and
 you will pick it up naturally quickly.
+
+
+Segmenting words
+----------------
+
+When Finnish is spoken, everything flows together so that it can be
+difficult to detect the word boundaries in spoken text.  However, when
+speaking, the emphasis is is always on the first syllable.  The
+biggest emphasis is generally on the first syllable of each sentence,
+with other major emphasis on the first syllable of each word.  Thus,
+you can listen for each emphasis to try to segment the words and
+sentences.  It takes time and practice (in addition to knowing the
+words).
