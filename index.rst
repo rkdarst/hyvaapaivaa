@@ -39,12 +39,18 @@ Contents:
    wordorder
    references
 
+Upcoming chapters:
+
 * Noun cases
 * Word changes
 * Plural
 * Common suffixes/forms
 * Spoken Finnish/dialects
 
+This is written by Richard Darst, and licensed under a `Creative Commons
+Attribution-ShareAlike 4.0 International License <cc-by-sa>`_.
+
+.. _cc-by-sa: https://creativecommons.org/licenses/by-sa/4.0/
 
 ..
   Indices and tables
