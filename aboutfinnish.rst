@@ -45,6 +45,20 @@ Because of this, it takes some effort to be able to separate the words
 about.  When listening, this is even harder because of the way that
 Finnish flows together.
 
+People also use this to make fun of Finnish: "oh, there are so many
+words": `ex1`_, `ex2`_, `ex3`_, and so on.  But this is missing the
+point: Finnish is syntethic, and the concept of these being different
+words isn't quite right.  They are a base modified by different stems,
+the equivalent of different words in other languages.  You can't
+evaluate Finnish by the criteria of other languages.  Instead, you
+will learn how to break these down into their component pieces to
+understand them (and really, all these examples are highly
+pathological).
+
+.. _ex1: https://imgur.com/QFm6SCE
+.. _ex2: https://imgur.com/gallery/NdqH7
+.. _ex3: https://imgur.com/JoM4aLU
+
 The grammar of Finnish is very different.  If you know English, and
 are learning something like Spanish, it is relatively straightforward:
 you can substitute one word for another, and do some various small
@@ -69,6 +83,9 @@ Instead, you get more richness in the usage of fewer letters when they
 are turned into syllables.  For example, "tuli" is "fire", and "tuuli"
 is "wind".  In English, letters don't necessarily mean anything about
 the pronunciation, but in Finnish pronunciation is essential.
+Jokes: `ex4`_.
+
+.. _ex4: https://imgur.com/yReMTKL
 
 Finally, I believe that in many cases Finnish is hard to learn because
 of the way it is taught.  In many cases, it is thought as a "total
