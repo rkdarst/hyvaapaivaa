@@ -36,6 +36,8 @@ Contents:
    aboutfinnish
    vocabulary_words
    wordstructure
+   wordorder
+   references
 
 * Noun cases
 * Word changes
