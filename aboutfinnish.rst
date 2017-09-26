@@ -22,7 +22,7 @@ actually a great help in learning it: there actually are some rules
 that make things make sense.
 
 The downside to this is the standard Finnish (Kirjakieli=standard
-finnish, "book language") is not what anyone speaks.  It is only used
+Finnish, "book language") is not what anyone speaks.  It is only used
 in somewhat official contexts: formal TV programs, children's shows,
 official speeches, language courses, etc.  So, even after studying
 Finnish for a long time, you may try but be unable to understand what
@@ -31,7 +31,7 @@ puhekieli(=spoke Finnish, "spoken language") to stay aware of some of
 the spoken words, even before you get to it in your courses which
 unfortunately usually comes very late.
 
-Finnish is a very syntethic language, not an analytic language like
+Finnish is a very synthetic language, not an analytic language like
 English.  This means that words change, inflect, and combine very
 much.  In Finnish, this is basically how *all* words are formed.  In
 English, it is easy to tell what a word is: everything that is
@@ -43,11 +43,13 @@ later chapter.
 Because of this, it takes some effort to be able to separate the words
 (things separated by spaces) into the basic components that you learn
 about.  When listening, this is even harder because of the way that
-Finnish flows together.
+Finnish flows together.  Recommendation: when studying Finnish, put
+lines between the base words and suffixes.  This will help you to
+mentally break things down into the components.
 
 People also use this to make fun of Finnish: "oh, there are so many
 words": `ex1`_, `ex2`_, `ex3`_, and so on.  But this is missing the
-point: Finnish is syntethic, and the concept of these being different
+point: Finnish is synthetic, and the concept of these being different
 words isn't quite right.  They are a base modified by different stems,
 the equivalent of different words in other languages.  You can't
 evaluate Finnish by the criteria of other languages.  Instead, you
