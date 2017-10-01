@@ -48,7 +48,11 @@ Upcoming chapters:
 * Spoken Finnish/dialects
 
 This is written by Richard Darst, and licensed under a `Creative Commons
-Attribution-ShareAlike 4.0 International License <cc-by-sa>`_.
+Attribution-ShareAlike 4.0 International License <cc-by-sa>`_.  This
+is an open-source project and suggestions and direct contributions are
+very welcome.  I (Richard) don't claim to be an expert in Finnish, and
+would like other viewpoints.  I would especially like people with a
+more in-depth knowledge of Finnish to fact check things.
 
 .. _cc-by-sa: https://creativecommons.org/licenses/by-sa/4.0/
 
