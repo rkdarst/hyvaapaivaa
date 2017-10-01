@@ -23,6 +23,10 @@ In Finnish, the most common patterns are ``kv`` and ``kvk``.  The
 others exist, but less frequently.  (As a particular extreme case, it's
 possible to have a multi-syllable word with no consonants at all!)
 
+In Finnish, there are almost never three consonants in a row.  It does
+happen sometimes in special places, but these are fixed circumstances
+and not something that you see in new formations.
+
 Breaking words into syllables
 -----------------------------
 
