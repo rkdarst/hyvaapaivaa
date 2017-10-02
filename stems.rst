@@ -154,7 +154,6 @@ forms occurring at the same time.** You see one particular form
 written down depending on if it is observed in an open syllable or
 closed syllable.
 
-
 Primarily, these happen in the last syllable of the word, depending on
 what ending is applied: if it's a closing ending (``-t``, ``-n``,
 ``-ssa``, etc) or a non-closing ending.
@@ -162,6 +161,10 @@ what ending is applied: if it's a closing ending (``-t``, ``-n``,
 Secondarily, it happens before the last syllable, but only when there
 are changes that have effects that open or close a syllable.
 
+A syllable that has a long vowel (two of the same in a row) in it is
+always open: imagine that the long sound insulates the front from the
+back of the syllable.  This leads to words where consonant gradation
+*should* apply, but is always in the strong form.
 
 
 Stems from basic forms
@@ -181,39 +184,62 @@ suitable for adding stems (when it ends in a vowel).
 A word like ``ovi`` (door) is directly able to take any ending: the
 base form is the same as the stemp
 
-*Note: the rest of this section is informative, but for now just look
-at the general patterns.  You will learn these as you go through your
-regular lessons, and as you do it will make a lot more sense.
+*Note: There are various examples below for your information, but for
+now just look at the general patterns.  You will learn these as you go
+through your regular lessons, and as you do it will make a lot more
+sense.*
 
 ``-i`` to ``-e``.  Why?  Because ``-i-`` is for plural, so basically
 everything gets changed to ``-e-`` for singular, *except* some modern
 loanwords.
 
-A word like ``kasvis`` moves to ``kasvii-``.
+A word like ``-as`` (``vieras``) becomes ``-aa`` (``vieraa-``).
+Similar thing can happen with ``-is``.  This unconditionally opens the
+last syllable (because of the long vowel) causes reverse consonant
+gradation (``a·su·kas`` → ``a·su·kaa-``) in *all* forms: it doesn't
+matter what stem is attached, unlike the normal case where the stem
+affects the gradation.
 
-A word like ``-nen-`` becomes ``-se-``.  Imagine the ``n`` becomes
-``s`` and the last removed.
+A word like ``-nen-`` (``nai·nen``) becomes ``-se-`` (``nai·se-``).  You
+can try to rationalize this by imagining the ``n`` becomes ``s`` and
+the last ``n`` removed.
 
-A word like ``puhelin`` becomes ``puhelime-``.  ``n`` becomes ``m``
+A word like ``pu·he·lin`` becomes ``pu·he·li·me-``.  ``n`` becomes ``m``
 which makes you somehow think of consonant gradation, and ``e``
 is added.
 
-A word like ``-is`` becomes ``-ikse``.  A ``k`` appears out of
-nowhere, which is somewhat like consonant gradation.  An ``e`` also is
-added.
+A word like ``-us`` (``vas·taus``) becomes ``-ukse``
+(``vas·tau·kse-``).  A ``k`` appears out of nowhere, which is actually
+reverse consonant gradation so it sort of makes sense.  An ``e`` also
+is added.
 
-A word like ``-e`` becomes ``-ee-``, which causes reverse consonant
-gradation.
+A word like ``-e`` (``ha·me``) becomes ``-ee-`` (``ha·mee-``), which
+causes reverse consonant gradation.  This also opens a syllable (because of
+the long vowel), so can cause reverse consonant gradation: ``kaa·de``
+→ ``kaa·tee-``.
+
+There are lots of different words that end in ``-i``.  Most of them
+become ``-e-`` in the stem, but new loanwords stay as ``-i-`` (new
+loanwords generally don't obey old patterns).  There are also "old
+Finnish words" that have a different category: partitive is different
+(``pieni`` + partitive → ``pienta``).  So, when understanding ``-i``
+words, classify them into three categories: very old Finnish words,
+Finnish words, and modern loanwords.
 
 These are just some examples.
 
 There are *many* different types of stem changes, but most fit into
-some major categories.  KOTUS classisfies them into about 50 different
+some major categories.  KOTUS classifies them into about 50 different
 types, but there is a lot of effective duplication based on exact
 letters and forward/reverse consonant gradation: however, in effect,
 many of these differences can be understood based on the rules
 described above, so the effective amount you have to learn is a lot
-smaller.
+smaller.  Wiktionary has a `list of Kotus types <kotustypes>`_, but I
+don't think the list is that accurate or useful: however, wiktionary
+is good if you know a word and want to know it's inflection, or vice
+versa.
+
+.. _kotustypes: https://en.wiktionary.org/wiki/Appendix:Finnish_nominal_inflection
 
 
 
@@ -238,6 +264,27 @@ applied if needed.
 When learning a new ending, the two important things to learn are: is
 it applied to the base form or stem, and does it close the last
 syllable (strong or weak)?
+
+
+
+Plural
+======
+
+To form plural words, the basic rule is to add an ``-i-`` to the stem,
+then whatever other ending.  It seems more complicated because of some
+rules, but they are actually quite standard.
+
+Diphtongs mutate: ``ie`` + ``-i-`` → ``ei``.  ``uo`` + ``-i-`` →
+``oi``.  ``yö`` + ``-i-`` → ``öi``.
+
+There can be vowel changes in partitive: ``viv`` (``v``\ =a vowel)
+becomes ``vjv``.
+
+Double vowels become a dipthong: ``vv`` + ``-i-`` → ``vi``
+(``vv``\ =same vowel twice).
+
+There are lots of other complexities, but you can understand them
+based on this.
 
 
 
