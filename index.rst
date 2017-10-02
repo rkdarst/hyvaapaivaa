@@ -27,6 +27,10 @@ means knows it.  This isn't designed to be technically correct, but
 easy and fun to understand.  Do not trust anything in here, but learn
 it and remember once you start you own courses.
 
+.. note::
+
+   Current status: There is a first draft of many sections, but they
+   need revising, fact checking, and made consistent.
 
 Contents:
 
@@ -37,13 +41,16 @@ Contents:
    vocabulary_words
    wordstructure
    wordorder
+   stems
    references
 
 Upcoming chapters:
 
-* Noun cases
-* Word changes
-* Plural
+..
+  * Noun cases
+  * Word changes
+  * Plural
+
 * Common suffixes/forms
 * Spoken Finnish/dialects
 
