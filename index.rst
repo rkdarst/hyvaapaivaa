@@ -41,6 +41,7 @@ Contents:
    vocabulary_words
    wordstructure
    wordorder
+   verbs
    stems
    references
 
