@@ -30,6 +30,17 @@ much more enjoyable.
 For reference
 -------------
 
+* `Wiktionary`_ is the open source dictionary (companion of
+  Wikipedia).  The English site has definitions from all languages in
+  English.  It is a remarkably good reference on many Finnish words,
+  and includes conjugation tables for all words and conjugation tables
+  for verbs.  When using any dictionary, remember that you may need to
+  put some thought into splitting a word into it's parts or removing
+  endings (though wiktionary search is good at finding all
+  forms anyway).
+
+.. _Wiktionary: https://en.wiktionary.org
+
 * *Finnish: An Essential Grammar*, by Fred Karlsson.  This is a
   reference book, not a text book, but has very good explanations for
   self-study.  The first chapters are easy to read with no prior
