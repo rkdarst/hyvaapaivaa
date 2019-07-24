@@ -44,6 +44,7 @@ Contents:
    verbs
    stems
    references
+   speaksimply
 
 Upcoming chapters:
 
