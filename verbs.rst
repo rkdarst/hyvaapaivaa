@@ -143,7 +143,7 @@ full conjugation.  To negate in present tense, you use helper verb
 + weak form of the stem (minä form without ``-n``).  For example:
 
 * ``minä puhun`` = I speak
-* ``minä ei puhu`` = I don't speak
+* ``minä en puhu`` = I don't speak
 
 
 Moods
