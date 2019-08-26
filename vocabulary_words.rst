@@ -91,7 +91,7 @@ concepts related to vowels.
 
 First is *vowel harmony*.  There are front vowels (``ä``, ``ö``, ``y``
 vocalized from the front of the mouth), back vowels (``a``, ``o``,
-`u`` vocalized from the back, deeper sounds), and neutral (``e``,
+``u`` vocalized from the back, deeper sounds), and neutral (``e``,
 ``i``).  A single word never combines both front and back, but neutral
 can be with any.  (note: compound words, though not separated by a
 space, count as different words for this rule).  The front and back

@@ -246,7 +246,7 @@ There are lots of different words that end in ``-i``.  Most of them
 become ``-e-`` in the stem, but new loanwords stay as ``-i-`` (new
 loanwords generally don't obey old patterns).  There are also "old
 Finnish words" that have a different category: partitive is different
-(``pieni`` + partitive → ``pienta``).  So, when understanding ``-i``
+(``pieni`` + partitive → ``pientä``).  So, when understanding ``-i``
 words, classify them into three categories: very old Finnish words,
 Finnish words, and modern loanwords.  You will learn this during your
 studies of Finnish.

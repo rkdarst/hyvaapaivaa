@@ -49,11 +49,11 @@ for syllables.
 Some examples of words segmented into syllables:
 
 * ``suo·mi``
-* ``Pu·het·te·ko``
+* ``pu·hut·te·ko``
 * ``e·lä·mä``
 * ``työ`` (one syllable)
 * ``kes·kus·tel·la``
-* ``ter·ve·tuo·la``
+* ``ter·ve·tu·lo·a``
 
 As you can see, many Finnish words are are ``kv`` with occasional
 ``kvk`` thrown in.

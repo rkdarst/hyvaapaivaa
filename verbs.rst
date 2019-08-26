@@ -18,7 +18,7 @@ on this page).
 
 The first thing to do when using verbs is to convert the base form
 into the stem.  Let's use ``pakata`` as an example.  This involves
-removing the ending (``-ta``) first (→``paka-``).  Then, apply the new
+removing the ending (``-ta``) first (→ ``paka-``).  Then, apply the new
 stem ending (``-a``) (→ ``pakaa-``).  This process can result in
 consonant gradation to happen.  In our example, the double vowel opens
 up the last syllable. (→ ``pakkaa-``).  Then, you apply additional
@@ -143,7 +143,7 @@ full conjugation.  To negate in present tense, you use helper verb
 + weak form of the stem (minä form without ``-n``).  For example:
 
 * ``minä puhun`` = I speak
-* ``minä ei puhu`` = I don't speak
+* ``minä en puhu`` = I don't speak
 
 
 Moods

@@ -195,7 +195,7 @@ If a verb is *transitive*, then the verb *may* have a direct object
 always.  If a verb is *intransitive*, the verb can't have a direct
 object, so can't be used with the genitive.
 
-* Transitive verbs: ``syödö`` (to eat: you eat something)
+* Transitive verbs: ``syödä`` (to eat: you eat something)
 * Intransitive verbs: TODO.
 * Both: eat(``syödä``)
 
