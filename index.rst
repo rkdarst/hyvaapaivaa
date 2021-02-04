@@ -6,7 +6,7 @@
 Hyvää Päivää Suomi
 ==================
 
-Finnish is an fascinating language.  It is very different from
+Finnish is a fascinating language.  It is very different from
 anything you have learned, but also very logical.  Knowing this logic
 makes learning Finnish much easier, but unfortunately usually you
 don't learn the logic until you are well into courses (if ever).  This
