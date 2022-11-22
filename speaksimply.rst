@@ -5,7 +5,8 @@ People *can and do* learn Finnish all the time, but many people end up
 not for years and years.  Certainly the high penetration of English is
 part of that.  This page gives some hints on how Finnish speakers can
 help Finnish learners, because after all immersion and daily usage is
-key to learning any language.
+key to learning any language.  These mainly apply to technical fields
+where English is the defacto language.
 
 Finnish has many dialects, and the form we learn in classes isn't even
 what most people speak.  So, a bit of help can help us to learn much
@@ -22,6 +23,39 @@ it's important, I usually can't understand much."  What this basically
 means that, if something is important, you end up switching to English
 because we have stuff to get done.  Try to talk about unimportant
 things.
+
+But at the same time, once Finns start talking, they are very
+talkative and once the speaking barrier has been passed, it goes
+straight to deep topics.  As an artificial example, once someone
+starts talking they don't just mention the nice weather, they begin a
+comparative analysis of long-term trends and their causes.  Going too
+deep, too quickly, makes it harder to understand and follow - which
+isn't helpful, either.
+
+
+Write efficiently
+-----------------
+Reading a few sentences to get some information may be doable.
+Reading paragraphs when the main point is hidden somewhere in there
+take a longer time, and thus people are less likely to do it, even if
+they want to.
+
+Try to have the main point first and easy to find, followed by
+supporting information.  Can the main point/request/purpose of the
+message even be clear in the first sentence, other critical
+information the first paragraph, followed by supporting information?
+This will probably be good for everyone anyway.
+
+
+A multi-lingual message idea
+----------------------------
+If you do multi-lingual messages and you know most people want to read
+both languages, could you be clever about it?  For example, first
+"main point" paragraph in Finnish - learners can try to read it.
+Then, more details in English below.  Reading either language is
+enough to get the main point, and you can scan the other.  It provides
+a challenge for people learning Finnish, and saves you some time in
+writing everything twice.
 
 
 Ask people about what they are learning
@@ -67,8 +101,8 @@ first syllable of each word.
 Try to articulate words well, especially the ends
 -------------------------------------------------
 In Finnish, you have to be able to understand words from both the
-front and end (because the ends have the forms).  But often times the
-ends vanish, change, or otherwise are hard to pick up.  When that
+beginning and *end* (because the ends have the forms).  But often times the
+ends vanish, change, or otherwise are hard to pick up in spoken language.  When that
 happens, us learners aren't able to pick up what is said - and
 possible can't understand the whole sentence.  If you optimize the
 ends of words (as spoken Finnish does), we can't figure out what you
@@ -132,3 +166,12 @@ and stuff - and not taught in any basic courses.  My idea is that
 domains can make specific cheatsheets of common terms so that people
 there can learn what is relevant to them.  If anyone wants to use
 Hyvää Päivää to host this, let me know.
+
+
+Use children as teachers
+------------------------
+In the short term, our time is so limited and we talk at such a level
+that we will usually end up with English.  However, there are plenty
+of children who don't know English so well yet and are happy
+with any kind of interaction.  Maybe invite your friends learning
+Finnish to events with your children?
