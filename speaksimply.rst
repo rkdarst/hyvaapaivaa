@@ -33,6 +33,27 @@ deep, too quickly, makes it harder to understand and follow - which
 isn't helpful, either.
 
 
+Don't have a language binary
+----------------------------
+It's easy to split people into two categories: Finnish speakers and
+English speakers.  If there are English speakers in *the*
+conversation, speak in English.  But there are people learning
+Finnish, who may be involved, or passively listening but not directly
+involved.
+
+* For those actively involved, is this conversation simple enough you
+  think you can do it in Finnish?  Make it clear you are giving it a
+  try and go in Finnish.  Maybe you need to throw in a few
+  translations of key concepts (especially if it's domain-specific
+  jargon) so that they can follow all the rest?
+* If someone may be passively listening while you are talking to other
+  Finnish speakers, can you simplify a bit so that they have a
+  possibility to follow along and know what's going on?
+
+Many of the other ideas below are things you can do to make this a
+possibility.
+
+
 Write efficiently
 -----------------
 Reading a few sentences to get some information may be doable.
